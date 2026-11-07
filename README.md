@@ -2,7 +2,7 @@
 
 **Turn two catalog relationship exports into one auditable Excel workbook.**
 
-A Python data-quality tool by **Paul-Andrei Covalschi**. This repository demonstrates the parsing, validation and reconciliation portion of a catalog-analysis workflow using **entirely synthetic data**. It works offline and contains no production service connections, authentication code or company records.
+A Python data-quality tool. This repository demonstrates the parsing, validation and reconciliation portion of a catalog-analysis workflow using **entirely synthetic data**. It works offline and contains no production service connections, authentication code or company records.
 
 ## Try it in three commands
 
