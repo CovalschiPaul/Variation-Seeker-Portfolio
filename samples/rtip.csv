@@ -1,0 +1,5 @@
+Parent,Child,Type,Status,Publish status,Last updated by,Last updated
+D000000001,D000000101,Variation,Active,Published,Demo Operator,2026-01-01
+D000000002,D000000201,Variation,Active,Published,Demo Operator,2026-01-02
+D000000004,D000000401,Variation,Pending,Unpublished,Demo Operator,2026-01-03
+0000000001,0000000002,Variation,Active,Published,Demo Operator,2026-01-04

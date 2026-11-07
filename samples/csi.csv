@@ -1,0 +1,8 @@
+Parent Item,Child Item,Variation Dimension Value(s),Child Item Name,State,Winning Customer Name
+D000000001,D000000101,Color: Blue,Fictional blue mug,Active,Demo Seller A
+D000000001,D000000102,Color: Red,Fictional red mug,Active,Demo Seller A
+D000000002,D000000201,Size: Small,Fictional small notebook,Active,Demo Seller B
+D000000002,D000000201,Size: Small,Fictional small notebook,Active,Demo Seller B
+D000000003,D000000301,Size: Medium,Fictional cotton bag,Active,Demo Seller C
+D000000003,D000000301,Size: Large,Fictional cotton bag,Active,Demo Seller C
+0000000001,0000000002,Edition: 01,Fictional numeric identifier example,Active,Demo Seller D
